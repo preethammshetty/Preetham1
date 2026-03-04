@@ -10,4 +10,5 @@ I am a BCA student learning programming and GitHub.
 
 ## My goals
 - Build small projects
-- Learn new skills every day
+- Learn new skills every day.
+Updated on Day 5: Learned branch and pull request.
